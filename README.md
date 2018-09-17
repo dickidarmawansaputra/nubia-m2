@@ -23,7 +23,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 A step by step series of examples that tell you how to get a development env running
 
-1. Download Lineage OS 14.1
+1. Install Nubia M2 Chinese ROM Via Nubia Recovery
+2. Activated Developer Mode in M2 Chinese ROM and Enable <h4>USB DEBUGGING AND UNLOCK OEM</h4>
 
 ```
 https://drive.google.com/file/d/1YSdAOY0wEyDojF24G7jeDhDdxwy3yr8Q/view
