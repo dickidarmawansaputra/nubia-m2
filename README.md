@@ -18,17 +18,30 @@ Give examples
 
 A step by step series of examples that tell you how to get a development env running
 
-Download & Install Minimal ADB and Fastboot (Minimal ADB and Fastboot V1.4.3)
+1. Download & Install Minimal ADB and Fastboot (Minimal ADB and Fastboot V1.4.3)
 
 ```
 http://download930.mediafire.com/dmm09bpd33wg/ccnnv843a20tqbn/minimal_adb_fastboot_v1.4.3.zip
 ```
 
-And repeat
+2. Download & Install TWRP Recovery Image
 
 ```
-until finished
+https://dl.twrp.me/NX551J/twrp-3.2.3-0-NX551J.img
 ```
+
+3. Copy or Paste TWRP Recovery Image to Minimal ADB and Fastboot Folder Installation
+
+```
+C:\ Program Files (x86)\Minimal ADB and Fastboot
+```
+
+4. Run as Administrator Minimal ADB and Fastboot
+
+```
+cmd-here.exe
+```
+
 
 End with an example of getting some data out of the system or using it for a little demo
 
