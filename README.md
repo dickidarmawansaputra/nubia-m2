@@ -1,10 +1,10 @@
 # Nubia M2
 
-One Paragraph of project description goes here
+Installation LineageOS 14.1 (or other custom ROM) in Nubia M2
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you how to install LineageOS 14.1 (or other custom ROM) in Nubia M2
 
 ### Installation Requirements
 
@@ -17,49 +17,49 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-Step by step series of examples that tell you how to get a development env running
+Step by step to installation
 
-1. Install Nubia M2 Chinese ROM Via Nubia Recovery
-2. Activated Developer Mode in M2 Chinese ROM and Enable **USB DEBUGGING AND UNLOCK OEM**
+1. Install Nubia M2 chinese ROM via Nubia Recovery
+2. Activated Developer Mode in Nubia M2 Chinese ROM and Enable **USB DEBUGGING AND UNLOCK OEM**
 3. Install Minimal ADB and Fastboot
-4. Connect USB Smartphone to Computer
-5. Copy or Paste TWRP Recovery Image to Minimal ADB and Fastboot Folder Installation
+4. Copy or Paste TWRP Recovery Image to Minimal ADB and Fastboot Folder Installation
 
 ```
 C:\ Program Files (x86)\Minimal ADB and Fastboot
 ```
 
-6. Run as Administrator Minimal ADB and Fastboot
+5. Run as Administrator Minimal ADB and Fastboot
 
 ```
 cmd-here.exe
 ```
 
-7. Connect your Android device to the PC. Type the following into the command window to boot your device into bootloader/fastboot mode
+6. Connect your Android device to the PC. Type the following into the command window to boot your device into bootloader/fastboot mode
 
 ```
 adb reboot bootloader
 ```
 
-8. Once your device boots into bootloader mode, type this into the command line
+7. Once your device boots into bootloader mode, type this into the command line
 
 ```
 fastboot flash recovery twrp-3.2.3-0-NX551J.img
 ```
 
-9. Once TWRP is successfully flashed on your device, type this final command to reboot your device.
+8. Once TWRP is successfully flashed on your device, type this final command to reboot your device.
 
 ```
 fastboot reboot
 ```
 
-10. Enter TWRP Mode and Flash to Install Lineage OS 14.1
+9. Enter TWRP Mode to Flash Lineage OS 14.1 ROM
 
 ```
-Power button + volume up
+power button + volume up button
 ```
 
-8. 
+10. Done!
+
 ## Authors
 
 * **Dicki Darmawan Saputra** - *Initial work* - [dickidarmawansaputra](https://github.com/dickidarmawansaputra)
