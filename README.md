@@ -6,6 +6,20 @@ One Paragraph of project description goes here
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
+<h4 align="center">
+  <a href="https://laravel-excel.maatwebsite.nl/3.0/exports/">Quickstart</a>
+  <span> · </span>
+  <a href="https://laravel-excel.maatwebsite.nl/3.0/getting-started/">Documentation</a>
+  <span> · </span>
+  <a href="https://github.com/Maatwebsite/Laravel-Nova-Excel">Nova</a>
+  <span> · </span>
+  <a href="https://laravel-excel.maatwebsite.nl/blog/">Blog</a>
+  <span> · </span>
+  <a href="https://laravel-excel.maatwebsite.nl/3.0/getting-started/contributing.html">Contributing</a>
+  <span> · </span>
+  <a href="https://laravel-excel.maatwebsite.nl/3.0/getting-started/support.html">Support</a>
+</h4>
+
 ### Prerequisites
 
 What things you need to install the software and how to install them
@@ -17,6 +31,18 @@ Give examples
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
+
+1. Download Lineage OS 14.1
+
+```
+https://drive.google.com/file/d/1YSdAOY0wEyDojF24G7jeDhDdxwy3yr8Q/view
+```
+
+1. Download Nubia M2 Chinese ROM
+
+```
+http://ui.nubia.cn/rom/detail/36
+```
 
 1. Download & Install Minimal ADB and Fastboot (Minimal ADB and Fastboot V1.4.3)
 
@@ -85,7 +111,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Dicki Darmawan Saputra** - *Initial work* - [dickidarmawansaputra](https://github.com/dickidarmawansaputra)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
