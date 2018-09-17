@@ -18,10 +18,10 @@ Give examples
 
 A step by step series of examples that tell you how to get a development env running
 
-Install Minimal ADB and Fastboot (Minimal ADB and Fastboot V1.4.3)
+Download & Install Minimal ADB and Fastboot (Minimal ADB and Fastboot V1.4.3)
 
 ```
-<a href="http://download930.mediafire.com/dmm09bpd33wg/ccnnv843a20tqbn/minimal_adb_fastboot_v1.4.3.zip">Download</a>
+http://download930.mediafire.com/dmm09bpd33wg/ccnnv843a20tqbn/minimal_adb_fastboot_v1.4.3.zip
 ```
 
 And repeat
